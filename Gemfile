@@ -59,7 +59,7 @@ group :development do
   gem "web-console"
 end
 group :development, :test do
-  gem 'rspec-rails', '~> 3.7'
+  gem 'rspec-rails', '~> 8.1'
   gem 'capybara'
   gem 'database_cleaner'
 gem 'bootstrap-sass', '3.3.7'
